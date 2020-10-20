@@ -1,6 +1,6 @@
 # nodejs-urlShortner
 <div align="center">
-  <img width="200px" src="https://img.icons8.com/dusk/2x/dancing.png"/>
+  <img width="200px" src="https://analyticsindiamag.com/wp-content/uploads/2020/05/URL-shortener.jpg"/>
 </div>
 <br>
 
